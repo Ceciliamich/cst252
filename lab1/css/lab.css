@@ -18,7 +18,7 @@ p {
 }
 
 img {
-  float: center;
+  float: right;
   width: 300px;
   height: auto;
   box-shadow: 6px 8px 15px #C2FF0A;
