@@ -26,7 +26,7 @@ p {
 
 img {
   float: left;
-  width: auto;
+  width: 300px;
   height: auto;
   box-shadow: 6px 8px 15px #618005;
 }
