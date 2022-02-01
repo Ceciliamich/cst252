@@ -1,9 +1,9 @@
 h1 {
   color: #ecede6;
-  text-shadow:-1px 0 black,
-    0 1px black,
-    1px 0 black,
-    0 -1px black;
+  text-shadow:-1px 0 #525202,
+    0 1px #525202,
+    1px 0 #525202,
+    0 -1px #525202;
   size: 200%;
   font-style: oblique;
   float: center;
@@ -27,7 +27,7 @@ p {
 img {
   float:center;
   width: 300px;
-  height: 330px;
+  height: inherit;
   padding: inherit;
   box-shadow: 6px 8px 15px #525202;
 }
