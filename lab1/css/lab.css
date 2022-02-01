@@ -28,7 +28,7 @@ img {
   float: center;
   width: 300px;
   height: auto;
-  border-width: thin;
+  border-width: thick;
   box-shadow: 6px 8px 15px #618005;
 }
 
