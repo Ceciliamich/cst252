@@ -3,6 +3,8 @@ h1 {
   size: 200%;
   font-family: fantasy;
   font-style: oblique;
+  float: center;
+  font-size-adjust: auto;
 }
 
 h2 {
