@@ -28,7 +28,7 @@ img {
   float: center;
   width: 300px;
   height: auto;
-  padding: inherit;s
+  padding: inherit;
   box-shadow: 6px 8px 15px #618005;
 }
 
@@ -37,7 +37,7 @@ img {
     background-color:#77824f;
     padding-top:25px;
     padding-bottom: 25px;
-    padding: 50px;
+    padding:50px;
     padding-right:50px;
 
 }
