@@ -24,8 +24,10 @@ p {
 img {
   float: left;
   width: 300px;
-  height: auto;
+  height: 200px;
   padding:3%;
+  margin: auto;
+  border-right:3%;
   box-shadow: 6px 8px 15px #618005;
 }
 
