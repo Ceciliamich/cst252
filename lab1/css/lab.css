@@ -26,8 +26,8 @@ p {
 
 img {
   float: left;
-  width: 250px;
-  height: 150px;
+  width: auto;
+  height: auto;
   box-shadow: 6px 8px 15px #618005;
 }
 
