@@ -27,7 +27,7 @@ p {
 img {
   float:center;
   width: 300px;
-  height: auto;
+  height: 330px;
   padding: inherit;
   box-shadow: 6px 8px 15px #525202;
 }
