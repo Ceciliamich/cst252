@@ -14,11 +14,13 @@ h2 {
   text-align: center;
 }
 p {
-  position:s -webkit-sticky;
+  div.sticky {
+  position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-color: green;
-  border: 1px solid;
+  padding: 5px;
+  background-color: #cae8ca;
+  border: 2px solid #4CAF50;
   size:30%;
   padding: 8px;
   margin: auto;
