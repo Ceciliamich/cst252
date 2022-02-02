@@ -14,13 +14,6 @@ h2 {
   text-align: center;
 }
 p {
-  div.sticky {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  padding: 5px;
-  background-color: #cae8ca;
-  border: 2px solid #4CAF50;
   size:30%;
   padding: 8px;
   margin: auto;
@@ -31,7 +24,6 @@ p {
   margin-top: 10px;
   margin-bottom: 10px;
   font-size: 15px;
-
 }
 
 img {
