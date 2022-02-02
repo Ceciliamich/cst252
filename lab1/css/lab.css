@@ -14,7 +14,8 @@ h2 {
   color: white;
   font-size: 15px;
   size: 100%;
-
+  font-weight: bold;
+  float: right;
 }
 
 h3 {
@@ -47,11 +48,4 @@ div#column {
     padding:50px;
     padding-right:50px;
     float: right;
-}
-
-div #Homepage{
-  size:12px;
-  margin:10px;
-  padding:13px;
-  border-top:dotted 3px white
 }
