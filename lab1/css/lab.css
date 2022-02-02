@@ -32,7 +32,9 @@ img {
   padding: inherit;
   box-shadow: 6px 8px 15px #525202;
 }
-
+div.column{
+column-count: 2;  
+}
 #content{
     font-family:"sans-serif";
     background-color:#77824f;
