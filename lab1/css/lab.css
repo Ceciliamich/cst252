@@ -14,6 +14,7 @@ h2 {
   color: white;
   font-size: 15px;
   size: 100%;
+  float: center;
 }
 
 h3 {
@@ -33,7 +34,7 @@ img {
   box-shadow: 6px 8px 15px #525202;
 }
 div.column{
-column-count: 2;  
+column-count: 2;
 }
 #content{
     font-family:"sans-serif";
