@@ -36,6 +36,9 @@ img {
 div.column{
 column-count: 2;
 }
+div#column {
+  column-count: 2
+}
 #content{
     font-family:"sans-serif";
     background-color:#77824f;
