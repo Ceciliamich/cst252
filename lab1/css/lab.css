@@ -40,10 +40,9 @@ img {
 }
 div.column{
 column-count: 2;
+text-align: center;
 }
-div#column {
-  column-count: 2
-}
+
 #content{
     font-family:"sans-serif";
     background-color:#77824f;
