@@ -18,6 +18,8 @@ p {
   padding: 8px;
   margin: auto;
   border: 12px;
+  border-style:solid black;
+
 }
 
 img {
