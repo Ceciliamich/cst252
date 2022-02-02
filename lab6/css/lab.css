@@ -1,4 +1,13 @@
-h1 {
+#content{
+    font-family:"sans-serif";
+    background-color:#77824f;
+    padding-top:25px;
+    padding-bottom: 25px;
+    padding:50px;
+    padding-right:50px;
+    float: right;
+
+/h1 {
   text-align: center;
   color: #ecede6;
   text-shadow:-1px 0 #525202,
