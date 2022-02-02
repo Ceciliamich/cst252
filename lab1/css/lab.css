@@ -29,11 +29,6 @@ div.paragraph{
   text-align: center;
 }
 
-div#paragraph{
-  font-size:12px;
-  text-align: center;
-}
-
 img {
   float:center;
   padding: inherit;
