@@ -4,21 +4,13 @@ h1 {
     0 1px #525202,
     1px 0 #525202,
     0 -1px #525202;
-  size: 200%;
+  size: 800%;
   font-style: oblique;
   float: center;
   font-size-adjust: auto;
 }
 
 h2 {
-  color: white;
-  font-size: 15px;
-  size: 100%;
-  font-weight: bold;
-  float: right;
-}
-
-h3 {
   color: white;
   size:60%;
 }
