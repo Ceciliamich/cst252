@@ -14,7 +14,7 @@ h2 {
 }
 p {
   color: #c5cab3;
-  size:12px;
+  size:30%;
   padding: 8px;
   margin: auto;
   border: 12px;
@@ -50,7 +50,4 @@ div#column {
     padding:50px;
     padding-right:50px;
     float: right;
-}
-div.Homepage{
-
 }
