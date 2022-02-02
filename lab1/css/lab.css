@@ -4,7 +4,7 @@ h1 {
     0 1px #525202,
     1px 0 #525202,
     0 -1px #525202;
-  size: 800%;
+  size: 80%;
   font-style: oblique;
   float: center;
   font-size-adjust: auto;
@@ -12,7 +12,7 @@ h1 {
 
 h2 {
   color: white;
-  size:60%;
+  size:20%;
 }
 p {
   color: #c5cab3;
