@@ -14,6 +14,7 @@ h2 {
   text-align: center;
 }
 p {
+  position: sticky;
   color: #c5cab3;
   size:30%;
   padding: 8px;
