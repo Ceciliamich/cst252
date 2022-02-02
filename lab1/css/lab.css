@@ -11,6 +11,7 @@ h1 {
 h2 {
   color: white;
   size:10%;
+  text-align: right;
 }
 p {
   color: #c5cab3;
@@ -20,10 +21,10 @@ p {
   border: 12px;
   border-style:solid black;
   padding-top: 2px;
-    color: black;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    font-size: 15px;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 15px;
 
 }
 
