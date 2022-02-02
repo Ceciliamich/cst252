@@ -18,7 +18,6 @@ p {
   padding: 8px;
   margin: auto;
   border: 12px;
-  border-style:solid black;
   padding-top: 2px;
   color: white;
   margin-top: 10px;
@@ -49,4 +48,13 @@ div#column {
     padding:50px;
     padding-right:50px;
     float: right;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+  float: left;
+  display: block;
+  padding: 8px;
 }
