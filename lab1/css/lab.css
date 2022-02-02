@@ -5,17 +5,17 @@ h1 {
     0 1px #525202,
     1px 0 #525202,
     0 -1px #525202;
-  size: 20%;
+  size: 40px;
 }
 
 h2 {
   color: white;
-  size:10%;
+  size:30px;
   text-align: center;
 }
 p {
-  size:30%;
-  padding: 8px;
+  size:15px;
+  padding: 8px;s
   margin: auto;
   border: 12px;
   padding-top: 2px;
