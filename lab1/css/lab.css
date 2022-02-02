@@ -17,8 +17,7 @@ p {
   position: sticky;
   top: 0;
   background-color: green;
-  border: 2px solid #4CAF50;
-  color: #c5cab3;
+  border: 1px solid #4CAF50;
   size:30%;
   padding: 8px;
   margin: auto;
