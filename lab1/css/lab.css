@@ -19,6 +19,11 @@ p {
   margin: auto;
   border: 12px;
   border-style:solid black;
+  padding-top: 2px;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
 
 }
 
@@ -45,4 +50,7 @@ div#column {
     padding:50px;
     padding-right:50px;
     float: right;
+}
+div.Homepage{
+
 }
