@@ -15,6 +15,9 @@ h2 {
 p {
   color: #c5cab3;
   size:12px;
+  padding: 8px;
+  margin: auto;
+  border: 12px;
 }
 
 img {
