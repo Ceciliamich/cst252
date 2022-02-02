@@ -43,3 +43,12 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+img{
+  float:center;
+  padding: inherit;
+  box-shadow: 6px 8px 15px #525202;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
