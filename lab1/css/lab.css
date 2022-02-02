@@ -14,6 +14,7 @@ h2 {
   text-align: center;
 }
 p {
+  position:s -webkit-sticky;
   position: sticky;
   top: 0;
   background-color: green;
