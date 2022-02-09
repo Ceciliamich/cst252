@@ -1,0 +1,24 @@
+h1{
+  text-align: center;
+  text-shadow:-1px 0 #EB50BB,
+    0 1px #EB50BB,
+    1px 0 #EB50BB,
+    0 -1px #EB50BB;
+  size: 40px;
+}
+#content{
+  text:30px black;
+  background-color:#C2B5F5;
+  }
+
+.text{
+text:18px;
+color:black;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+img{
+  box-shadow: 6px 8px 15px #EB50BB;
+}
