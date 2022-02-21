@@ -9,14 +9,14 @@ h1 {
 }
 
 img{
-  max-width:20%;
+  max-width:40%;
   height: auto;
   box-shadow: 6px 8px 15px #525202;
 }
 
 #content{
     font-family:"sans-serif";
-    background-color:#77824f;
+    background-color: black;
     width: auto;
     height: auto;
 
@@ -26,7 +26,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #525202;
 }
 
 li a {
@@ -43,13 +43,22 @@ p
   size:60px;
   color: white;
   border: 12px;
-  border-color:#DEB71F;
-  border:solid 10px #DEB71F;
-	border-top:solid 10px #DEB71F;
-	border-bottom:solid 10px #DEB71F;
+  border-color:#525202;
+  border:solid 10px #525202;
+	border-top:solid 10px #525202;
+	border-bottom:solid 10px #525202;
 	padding:5px;
 	margin:8px;
 }
 a:hover{
   text-decoration: underline;
+}
+#table{
+  table-layout: auto;
+}
+#table img{
+  max-width:50%;
+  height: auto;
+  box-shadow: 6px 8px 15px #525202;
+}
 }
