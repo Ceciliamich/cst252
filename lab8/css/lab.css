@@ -45,7 +45,12 @@ img{
     box-shadow: 6px 8px 15px #87C1ED;
     width:80%;
 }
-
+.coloumn{
+  float: left;
+  width: 50%;
+  display: table;
+  clear: both;
+}
 ul {
   list-style-type: none;
   margin: 0;
