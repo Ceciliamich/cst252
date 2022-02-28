@@ -13,7 +13,7 @@ ageNumber(2)
 ageNumber(4)
 8
 console.log("Is my age odd?", ageNumber(1));
-VM1382:1 Is my age odd? 2
+
 undefined
 array
 (9) [89, 67, 73, 45, 23.3, 3.5, 7, 1, 0]
@@ -27,7 +27,7 @@ array.map(function(x){
 
 function main() {
     document.writeln("Here's your age: " + ageNumber + "</br></br>");
-    
+
 
 }
 
