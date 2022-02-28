@@ -14,7 +14,6 @@ ageNumber(4)
 8
 console.log("Is my age odd?", ageNumber(1));
 
-undefined
 array
 (9) [89, 67, 73, 45, 23.3, 3.5, 7, 1, 0]
 array.map(ageNumber);
